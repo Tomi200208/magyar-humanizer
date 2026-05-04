@@ -1,0 +1,17 @@
+{
+  "name": "magyar-humanizer",
+  "version": "1.0.0",
+  "description": "Claude skill, ami magyar AI-szövegekből tünteti el a jellegzetes AI-jeleket (kerül-passzív, AI-szókincs, anglicizmusok, tipográfiai hibák). 30 minta öt kategóriában.",
+  "category": "writing",
+  "language": "hu",
+  "based_on": "https://github.com/blader/humanizer",
+  "license": "MIT",
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "LICENSE",
+    "references/szokincs.md",
+    "references/tipografia.md",
+    "references/peldak.md"
+  ]
+}
